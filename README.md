@@ -1,8 +1,4 @@
 compline
 ========
 
-The Traditional office of Compline in HTML and GABC
-
-This is still a work in progress, but you can see it in its current form [here](http://bbloomf.github.io/compline/).
-
-I mostly just need to clean up the code, and make the calendar code more re-usable.
+Code lifted from bbloomf's Compline (sorry I don't know how to use github well so if there's a "right" way to say I stole his code and modded idk)
